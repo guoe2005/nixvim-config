@@ -3,7 +3,7 @@
 { icons, ... }:
 
 {
-  neo-treetg = {
+  neo-tree = {
     enable = true;
 
     # Automatically clean up broken neo-tree buffers saved in sessions
