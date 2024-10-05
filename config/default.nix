@@ -4,7 +4,6 @@
     ./cmp.nix
     ./git.nix
     ./floaterm.nix
-    ./neo-tree.nix
     ./obsidian.nix
     ./notify.nix
     ./markview.nix
@@ -21,7 +20,7 @@
     ./utils/autosave.nix
     ./utils/blankline.nix
     ./utils/telescope.nix
-    # ./utils/toggleterm.nix
+    ./utils/toggleterm.nix
     ./utils/which-key.nix
     ./utils/wilder.nix
     ./lazygit.nix
