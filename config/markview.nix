@@ -1,5 +1,5 @@
 {
-  plugins.copilot-chat = {
+  plugins.markview = {
     enable = true;
   };
 }
