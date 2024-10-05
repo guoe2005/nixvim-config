@@ -2,8 +2,12 @@
   imports = [
     ./bufferline.nix
     ./cmp.nix
-    ./copilot-chat.nix
     ./git.nix
+    ./floaterm.nix
+    ./neo-tree.nix
+    ./obsidian.nix
+    ./notify.nix
+    ./markview.nix
     ./lightline.nix
     ./lsp/default.nix
     ./lsp/fidget.nix
@@ -17,9 +21,10 @@
     ./utils/autosave.nix
     ./utils/blankline.nix
     ./utils/telescope.nix
-    ./utils/toggleterm.nix
+    # ./utils/toggleterm.nix
     ./utils/which-key.nix
     ./utils/wilder.nix
+    ./lazygit.nix
   ];
 
   colorschemes.dracula.enable = true;
