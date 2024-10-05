@@ -3,7 +3,6 @@
     ./bufferline.nix
     ./cmp.nix
     ./git.nix
-    ./obsidian.nix
     ./notify.nix
     ./markview.nix
     ./lightline.nix
